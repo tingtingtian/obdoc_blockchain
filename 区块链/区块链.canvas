@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"3a3bc3018292725b","type":"text","text":"区块链","x":-220,"y":-220,"width":100,"height":60},
+		{"id":"3d93a2379fa80f39","type":"file","file":"区块链/区块链背景.md","x":-170,"y":-440,"width":240,"height":50},
+		{"id":"73f32eb8746f6d1a","type":"file","file":"区块链/演变和发展.md","x":-20,"y":-360,"width":240,"height":50},
+		{"id":"019e5d4e85c41a8b","type":"file","file":"区块链/什么是区块链.md","x":60,"y":-270,"width":240,"height":50},
+		{"id":"be611b5ba455414b","type":"file","file":"区块链/共识机制.md","x":60,"y":-185,"width":244,"height":50},
+		{"id":"b821d8a2e058a635","type":"file","file":"区块链/Gossip协议.md","x":-142,"y":60,"width":244,"height":50},
+		{"id":"e886301c9f2f00fb","type":"file","file":"区块链/加密算法.md","x":-20,"y":-60,"width":244,"height":50}
+	],
+	"edges":[
+		{"id":"0955b62021591368","fromNode":"3a3bc3018292725b","fromSide":"right","toNode":"019e5d4e85c41a8b","toSide":"left"},
+		{"id":"cbeb43922b4cf7ec","fromNode":"3a3bc3018292725b","fromSide":"right","toNode":"3d93a2379fa80f39","toSide":"left"},
+		{"id":"067646f073d9e47b","fromNode":"3a3bc3018292725b","fromSide":"right","toNode":"73f32eb8746f6d1a","toSide":"left"},
+		{"id":"92e6bb124abdadd3","fromNode":"3a3bc3018292725b","fromSide":"right","toNode":"be611b5ba455414b","toSide":"left"},
+		{"id":"eeb7c344bf1c7d66","fromNode":"3a3bc3018292725b","fromSide":"right","toNode":"e886301c9f2f00fb","toSide":"left"},
+		{"id":"81bebcd4672e194d","fromNode":"3a3bc3018292725b","fromSide":"right","toNode":"b821d8a2e058a635","toSide":"left"}
+	]
+}

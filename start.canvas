@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"e692cc301b71db91","type":"file","file":"区块链/区块链.canvas","x":-430,"y":-540,"width":170,"height":80},
+		{"id":"e6e9b2b3b302cbe3","type":"text","text":"start","x":-395,"y":-340,"width":100,"height":60},
+		{"id":"8df7791134f07862","type":"file","file":"以太坊/以太坊.canvas","x":-160,"y":-540,"width":180,"height":80},
+		{"id":"d8017d7dd6410670","x":-160,"y":-352,"width":209,"height":85,"type":"file","file":"web3 Architecture/web3 Architecture.canvas"}
+	],
+	"edges":[
+		{"id":"dabc52efc0234e65","fromNode":"e6e9b2b3b302cbe3","fromSide":"top","toNode":"e692cc301b71db91","toSide":"bottom"},
+		{"id":"82d608196d89e96a","fromNode":"e6e9b2b3b302cbe3","fromSide":"right","toNode":"8df7791134f07862","toSide":"left"},
+		{"id":"8e496d686986b465","fromNode":"e6e9b2b3b302cbe3","fromSide":"right","toNode":"d8017d7dd6410670","toSide":"left"}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"d3bd8fda1a6a547f","x":-440,"y":-120,"width":140,"height":60,"type":"text","text":"web3 架构"},
+		{"id":"9c719589b448e023","x":-175,"y":-218,"width":400,"height":50,"type":"file","file":"web3 Architecture/Web 3.0  应用架构.md"},
+		{"id":"36170044a4103d0a","x":-175,"y":-120,"width":250,"height":60,"type":"text","text":"设计模式"},
+		{"id":"1e28e90438270899","x":160,"y":-115,"width":344,"height":50,"type":"file","file":"web3 Architecture/设计模式-----钻石模式.md"},
+		{"id":"b964f6527980afc7","x":162,"y":-37,"width":358,"height":50,"type":"file","file":"web3 Architecture/设计模式-----代理模式.md"},
+		{"id":"bd48c469099e7059","x":168,"y":45,"width":412,"height":50,"type":"file","file":"web3 Architecture/钻石模式和代理模式的区别.md"}
+	],
+	"edges":[
+		{"id":"71d6a8e63ceb7c1c","fromNode":"d3bd8fda1a6a547f","fromSide":"right","toNode":"9c719589b448e023","toSide":"left"},
+		{"id":"9d10c709c28f884f","fromNode":"d3bd8fda1a6a547f","fromSide":"right","toNode":"36170044a4103d0a","toSide":"left"},
+		{"id":"d4f5ec40a75db6ab","fromNode":"36170044a4103d0a","fromSide":"right","toNode":"1e28e90438270899","toSide":"left"},
+		{"id":"9065156df6cfe81e","fromNode":"36170044a4103d0a","fromSide":"right","toNode":"b964f6527980afc7","toSide":"left"},
+		{"id":"413fa35f0c3bb016","fromNode":"36170044a4103d0a","fromSide":"right","toNode":"bd48c469099e7059","toSide":"left"}
+	]
+}

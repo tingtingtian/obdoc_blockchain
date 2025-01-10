@@ -1,0 +1,16 @@
+{
+  "editor:insert-link": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "K"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "I"
+    }
+  ]
+}
