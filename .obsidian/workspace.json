@@ -36,6 +36,34 @@
             }
           },
           {
+            "id": "12194e7ca3442328",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "以太坊/合约流程.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "合约流程"
+            }
+          },
+          {
+            "id": "4676b0054ddf4d08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "以太坊/区块链跨链技术：打破孤岛，连接未来.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "区块链跨链技术：打破孤岛，连接未来"
+            }
+          },
+          {
             "id": "7c6bc1f814c17ec7",
             "type": "leaf",
             "state": {
@@ -92,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -148,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 316.50418853759766
   },
   "right": {
     "id": "29671e29fe51c71a",
@@ -164,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "产品/Web3 生态中的产品体系全解析.md",
+                "file": "以太坊/区块链跨链技术：打破孤岛，连接未来.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -174,7 +202,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Web3 生态中的产品体系全解析 的反向链接列表"
+              "title": "区块链跨链技术：打破孤岛，连接未来 的反向链接列表"
             }
           },
           {
@@ -183,12 +211,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "产品/Web3 生态中的产品体系全解析.md",
+                "file": "以太坊/区块链跨链技术：打破孤岛，连接未来.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Web3 生态中的产品体系全解析 的出链列表"
+              "title": "区块链跨链技术：打破孤岛，连接未来 的出链列表"
             }
           },
           {
@@ -210,10 +238,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "产品/Web3 生态中的产品体系全解析.md"
+                "file": "以太坊/区块链跨链技术：打破孤岛，连接未来.md"
               },
               "icon": "lucide-list",
-              "title": "Web3 生态中的产品体系全解析 的大纲"
+              "title": "区块链跨链技术：打破孤岛，连接未来 的大纲"
             }
           }
         ],
@@ -233,16 +261,26 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3c84a9cab7809ceb",
+  "active": "4676b0054ddf4d08",
   "lastOpenFiles": [
-    "产品/Web3 未来最具潜力的两大产品生态：LSD+Restaking 与 AA 钱包.md",
-    "产品/Web3 生态中的产品体系全解析.md",
+    "以太坊/跨链技术：让不同区块链互联互通.md",
+    "以太坊/区块链跨链技术：打破孤岛，连接未来.md",
+    "以太坊/如何通过Layer 2扩容提升区块链性能并节省费用.md",
+    "AA 钱包详细开发方案.md",
     "以太坊/合约流程.md",
-    "产品",
     "以太坊/升级合约.md",
+    "区块链/演变和发展.md",
     "以太坊/BeaconProxy和Proxy的区别.png",
-    "以太坊/Tenderly Hardhat 插件.md",
+    "区块链/区块链背景.md",
+    "产品/跨链应用.md",
+    "web3 Architecture/web  3.0 扩展解决方案.png",
+    "web3 Architecture/Web 3.0  应用架构.md",
+    "区块链/什么是区块链.md",
+    "产品/Web3 生态中的产品体系全解析.md",
+    "产品/Web3 未来最具潜力的两大产品生态：LSD+Restaking 与 AA 钱包.md",
     "以太坊/Tenderly 概述.md",
+    "产品",
+    "以太坊/Tenderly Hardhat 插件.md",
     "以太坊/Etherscan访问情况.png",
     "以太坊/智能合约库.md",
     "以太坊/通过一个例子了解OpenZeppelin.md",
@@ -261,20 +299,10 @@
     "以太坊/新的目录.png",
     "以太坊/npx hardhat node结果.png",
     "以太坊/新目录-2.png",
-    "web3 Architecture/钻石模式和代理模式的区别.png",
     "web3 Architecture/设计模式-----工厂模式.md",
-    "web3 Architecture/钻石模式和代理模式的区别.md",
     "web3 Architecture/web3 Architecture.canvas",
-    "web3 Architecture/设计模式-----钻石模式.md",
-    "web3 Architecture/设计模式-----代理模式.md",
-    "以太坊/receive 函数及其应用场景.md",
-    "以太坊/简述合约间交互的方式.md",
-    "以太坊/详细了解 call、delegatecall 和 staticcall 合约交互关键字区别.md",
-    "区块链/Gossip协议.md",
     "以太坊/以太坊.canvas",
     "start.canvas",
-    "以太坊/以太坊背景.md",
-    "以太坊/transfer、send、call 在转账以太币时的目标函数要求.md",
     "区块链/区块链.canvas",
     "web3 Architecture",
     "以太坊",
